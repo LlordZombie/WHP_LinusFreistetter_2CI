@@ -27,10 +27,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -43,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694067970133</updated>
       <workItem from="1694067971347" duration="6171000" />
+      <workItem from="1694098864879" duration="6728000" />
     </task>
     <servers />
   </component>
